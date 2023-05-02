@@ -17,7 +17,7 @@ Age Calculator APP to calculate the difference between any date (day,month and y
 
 ## Get Started
 
-First, run the development server:
+First, run:
 
 ```bash
 npm install
@@ -25,7 +25,7 @@ npm install
 yarn install
 ```
 
-and then
+and then run the development server:
 
 ```bash
 npm run dev
